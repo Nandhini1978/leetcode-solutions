@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Nandhini1978/leetcode-solutions/tree/master/0561-array-partition) |
 | [0997-find-the-town-judge](https://github.com/Nandhini1978/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [2942-find-words-containing-character](https://github.com/Nandhini1978/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Nandhini1978/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String
 |  |
 | ------- |
@@ -53,8 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Nandhini1978/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Nandhini1978/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Nandhini1978/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Nandhini1978/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Nandhini1978/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
