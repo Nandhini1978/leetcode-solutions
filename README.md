@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Nandhini1978/leetcode-solutions/tree/master/0198-house-robber) |
 | [0561-array-partition](https://github.com/Nandhini1978/leetcode-solutions/tree/master/0561-array-partition) |
 | [0733-flood-fill](https://github.com/Nandhini1978/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0997-find-the-town-judge](https://github.com/Nandhini1978/leetcode-solutions/tree/master/0997-find-the-town-judge) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nandhini1978/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Nandhini1978/leetcode-solutions/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
