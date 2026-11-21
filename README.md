@@ -70,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Nandhini1978/leetcode-solutions/tree/master/0733-flood-fill) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nandhini1978/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nandhini1978/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nandhini1978/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
